@@ -65,11 +65,11 @@ Fachri Muhammad Bandang Haq
 Membuat aplikasi web yang dapat membaca data, mengubah data, menghapus data, dan menginput data ke
 dalam database. 
 Aplikasi ini dibuat menggunakan :
-a. salah satu tabel di dalam database yang telah disediakan (https://drive.google.com/drive/u/1/folders/17xtlhHklgCfEcsLyZwsmwOkqoZRarIfP )
-b. Node.js sebagai framework Back-End.
-c. Restful API.
-d. Vue.js sebagai framework Front-End.
-e. Penulisan pemrograman menggunakan eslint berdasarkan https://github.com/standard/standard/blob/master/docs/RULES-en.md.
+- salah satu tabel di dalam database yang telah disediakan (https://drive.google.com/drive/u/1/folders/17xtlhHklgCfEcsLyZwsmwOkqoZRarIfP )
+- Node.js sebagai framework Back-End.
+- Restful API.
+- Vue.js sebagai framework Front-End.
+- Penulisan pemrograman menggunakan eslint berdasarkan https://github.com/standard/standard/blob/master/docs/RULES-en.md.
 
 Karena projeck dibuat dengan batas waktu yang singkat, munkin terasa beberapa hasil atau feature yang tidak maksimal, makadari itu mohon dimaklumi.
 <p align="right">(<a href="#top">back to top</a>)</p>
