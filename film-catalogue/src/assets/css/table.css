@@ -1,0 +1,22 @@
+@import './color-variable.css';
+.tableFixHead {
+    overflow-y: auto;
+    height: 506px;
+    border: 1px solid var(--text-color);
+  }
+  .tableFixHead thead th {
+    position: sticky;
+    top: 0;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  th,
+  td {
+    padding: 8px 16px;
+    border: 1px solid var(--text-color);
+  }
+  th {
+    background: var(--background-button-color-on);
+  }
