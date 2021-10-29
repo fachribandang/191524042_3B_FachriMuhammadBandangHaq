@@ -103,7 +103,7 @@ Berikut software yang dibutuhkan untuk menjalankan program
    ```
 2. Extract zip
 3. deploy server
-- dari directori clone, pindah ke folder dvd-rental-db
+- dari directory clone, pindah ke folder dvd-rental-db
    ```sh
    $ cd dvd-rental-db
    ```
@@ -116,7 +116,7 @@ Berikut software yang dibutuhkan untuk menjalankan program
    $ npm run server
    ```
 4. deploy app
-- dari directori clone, pindah ke folder film-catalogue
+- dari directory clone, pindah ke folder film-catalogue
    ```sh
    $ cd film-catalogue
    ```
