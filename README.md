@@ -102,8 +102,33 @@ Berikut software yang dibutuhkan untuk menjalankan program
    git clone https://github.com/fachribandang/191524042_3B_FachriMuhammadBandangHaq
    ```
 2. Extract zip
-3. Buka index.html
-
+3. deploy server
+- dari directori clone, pindah ke folder dvd-rental-db
+   ```sh
+   $ cd dvd-rental-db
+   ```
+- instal package
+   ```sh
+   $ npm install
+   ```
+- jalankan server (PORT:3000)
+   ```sh
+   $ npm run server
+   ```
+4. deploy app
+- dari directori clone, pindah ke folder film-catalogue
+   ```sh
+   $ cd film-catalogue
+   ```
+- instal package
+   ```sh
+   $ npm install
+   ```
+- jalankan applikasi (PORT:8080)
+   ```sh
+   $ npm run dev
+   ```
+5. buka aplikasi di http://localhost:8080
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Hasil pengerjaan ETS
