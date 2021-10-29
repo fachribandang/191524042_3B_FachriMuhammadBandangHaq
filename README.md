@@ -17,17 +17,11 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![filesize][filesize-shield]][filesize-url]
-[![releasedate][lastcommit-shield]][lastcommit-url]
-
-
 
 <br />
 <div align="center">
-  <a href="https://github.com/Web-Dev-2021-3B-Kelompok-9/stopwatch/blob/main/Image/kisspng-stopwatch-timer-tool-computer-icons-kitchen-utensi-5afc723a183fe5.7815737715264937540993-removebg-preview.png">
-    <img src="https://github.com/Web-Dev-2021-3B-Kelompok-9/stopwatch/blob/main/Image/kisspng-stopwatch-timer-tool-computer-icons-kitchen-utensi-5afc723a183fe5.7815737715264937540993-removebg-preview.png" alt="Logo" width="150" height="80">
+  <a href="https://github.com/fachribandang/191524042_3B_FachriMuhammadBandangHaq/blob/main/Image/tabel.png">
+    <img src="https://github.com/fachribandang/191524042_3B_FachriMuhammadBandangHaq/blob/main/Image/tabel.png" alt="Logo" width="150" height="80">
   </a>
 
   <h1 align="center">ETS 191524042_3B_FachriMuhammadBandangHaq</h1>
@@ -64,7 +58,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](https://github.com/fachribandang/191524042_3B_FachriMuhammadBandangHaq/Image/tabel.png "Title")
+![Product Name Screen Shot](https://github.com/fachribandang/191524042_3B_FachriMuhammadBandangHaq/blob/main/Image/tabel.png "Title")
 
 ETS Mata Kuliah Perkembangan Web
 Fachri Muhammad Bandang Haq
@@ -122,13 +116,13 @@ Berikut Screenshoot output dari program ini
 
 ## Pengenalan Fitur Stopwatch ##
 #### Tampilan Awal aplikasi (light) ####
-![picture alt](https://github.com/fachribandang/191524042_3B_FachriMuhammadBandangHaq/Image/sampleAppLight.png "Title")
+![picture alt](https://github.com/fachribandang/191524042_3B_FachriMuhammadBandangHaq/blob/main/Image/sampleAppLight.png "Title")
 #### Tampilan Awal aplikasi (dark) ####
-![picture alt](https://github.com/fachribandang/191524042_3B_FachriMuhammadBandangHaq/Image/sampleAppDark.png "Title")
+![picture alt](https://github.com/fachribandang/191524042_3B_FachriMuhammadBandangHaq/blob/main/Image/sampleAppDark.png "Title")
 #### menambah data ke databese ####
-![picture alt](https://github.com/fachribandang/191524042_3B_FachriMuhammadBandangHaq/Image/add.png "Title")
+![picture alt](https://github.com/fachribandang/191524042_3B_FachriMuhammadBandangHaq/blob/main/Image/add.png "Title")
 #### hapus atau edit data ke databese ####
-![picture alt](https://github.com/fachribandang/191524042_3B_FachriMuhammadBandangHaq/Image/update_delete.png "Title")
+![picture alt](https://github.com/fachribandang/191524042_3B_FachriMuhammadBandangHaq/blob/main/Image/update_delete.png "Title")
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
